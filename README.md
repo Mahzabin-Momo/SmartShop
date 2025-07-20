@@ -1,16 +1,31 @@
 # smart_shop
 
-A new Flutter project.
+Smart Shop - A Mini E-Commerce Flutter App
 
-## Getting Started
+Smart Shop is a simple and modern e-commerce mobile application built using **Flutter**. It includes user authentication, product listing, a shopping cart, theme switching (light/dark), and persistent login using `SharedPreferences`. It consumes the [FakeStoreAPI](https://fakestoreapi.com/) for product data.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🧾 User Login (with dummy credentials)
+- 🛒 Add/Remove products from Cart
+- 💙 Wishlist (Favourites)
+- 💡 Light/Dark Theme Toggle
+- 🔒 Persistent Login using `SharedPreferences`
+- 📦 API Integration with FakeStoreAPI
+- 🚀 Clean Navigation using `Navigator` and named routes
+- 📱 Responsive UI with modern design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🔧 Tech Stack
+
+- Flutter (Dart)
+- Provider (state management)
+- Shared Preferences (local storage)
+- FakeStoreAPI (https://fakestoreapi.com/)
+- Material Design
+
+  //by- Mahzabin Rahman Momo
+
